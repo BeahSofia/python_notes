@@ -1,0 +1,11 @@
+site_name: Python Docs Pessoais
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Comandos:
+      - Strings: comandos/strings.md
+      - Listas: comandos/listas.md
+      - Dicionários: comandos/dicionarios.md
+      - Arquivos: comandos/arquivos.md
+  - Referência: referencias.md

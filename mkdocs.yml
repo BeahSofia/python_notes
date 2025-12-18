@@ -4,8 +4,10 @@ theme:
 nav:
   - Home: index.md
   - Comandos:
-      - Strings: comandos/strings.md
-      - Listas: comandos/listas.md
-      - Dicionários: comandos/dicionarios.md
-      - Arquivos: comandos/arquivos.md
+    - Strings: comandos/strings.md
+    - Listas: comandos/listas.md
+    - Dicionários: comandos/dicionarios.md
+    - Arquivos: comandos/arquivos.md
+  - Fundamentos:
+    - Print e Input: fundamentos/01_print_input.py
   - Referência: referencias.md
